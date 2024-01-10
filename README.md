@@ -7,6 +7,8 @@
 
 my silly little projects:
 - ToDo List [://supermegacat.github.io/ToDo/](https://supermegacat.github.io/ToDo/)
+- Another one landing https://supermegacat.github.io/TealuxE/
+  
 
 <!---
 supermegacat/supermegacat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
